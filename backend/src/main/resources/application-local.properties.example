@@ -1,0 +1,8 @@
+# Credenciales directas para tu entorno de desarrollo (Rama: develop-saas)
+spring.datasource.url=jdbc:postgresql://tu_host_neon_aqui.aws.neon.tech/neondb?sslmode=require&channel_binding=require
+spring.datasource.username=tu_usuario_aqui
+spring.datasource.password=tu_password_aqui
+
+# Credenciales de Brevo
+spring.mail.username=tu_usuario_smtp_brevo_aqui
+spring.mail.password=tu_password_aqui
